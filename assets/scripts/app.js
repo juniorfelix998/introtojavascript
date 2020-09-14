@@ -26,3 +26,5 @@ const backdropClickHandler = () => {
 startAddMovieButton.addEventListener('click',toggleMovieModal);
 backdrop.addEventListener('click',toggleMovieModal);
 cancelAddMovieButton.addEventListener('click',cancelAddMovie)
+
+//stopped at 174
